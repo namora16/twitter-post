@@ -1,10 +1,10 @@
 # twitter-post
 
-A very simple example to post a Twitter status (tweet) using Twitter API.
+A very simple example to post a Twitter status (tweet) using Twitter API and Tweepy.
 - Post with media (image, or video)
-- Include embbeded link (URL)
+- Include embedded link (URL)
 
 Prior to use the Python code:
-(1) Get Twitter API Credentials from https://developer.twitter.com.
-(2) Ensure you have an 'Elevated Access', so that you can both Read and Write permissions. 
-(3) Install tweepy using: pip tweepy
+- Get Twitter API Credentials from https://developer.twitter.com.
+- Ensure you have an 'Elevated Access', so that you can both Read and Write permissions. 
+- Install tweepy using: pip tweepy
